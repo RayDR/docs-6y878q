@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-g5d6k2.pos4dnok.cyou/sitemap.xml
